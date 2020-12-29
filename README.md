@@ -6,7 +6,7 @@
 ## An app that can analyze the image of the Flower that you take via Camera then give you the name of it and read the description that the app get from WIKI for you, and need the internet to bring the description, but it can tell you the name of the flower without the internet.
 
 * Used CoreML to identify the flower, and give you the description.
-* Used the WIKI API to bring the information about the captured flower.
+* Used the WIKI API to bring the information about the captured flower, and replace the taken pic with one from WIKI.
 * Used AVFoundation to read the results.
 
 
