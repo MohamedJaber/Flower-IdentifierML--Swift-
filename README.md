@@ -1,5 +1,5 @@
 
-# Caution you need to download (FlowerClassifier.mlmodel), because I couldn't upload it with the project cause github refuse, so u can send me a message and I'll send ya.
+# Caution you need to download (FlowerClassifier.mlmodel), because I couldn't upload it with the project cause github refuses it cause it over 200MB, so u can send me a message and I'll send ya.
 
 # Flower Identifier
 
